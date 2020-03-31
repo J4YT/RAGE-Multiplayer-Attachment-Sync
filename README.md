@@ -1,4 +1,4 @@
-# RAGE-Multiplayer-Attachment-Sync
+# RAGE Multiplayer Attachment Sync
 C# Attachment sync for RAGE Multiplayer Server and Client. 
 
 Equivalent for the Efficient Attachment System made by ragempdev and rootcause <br/>
