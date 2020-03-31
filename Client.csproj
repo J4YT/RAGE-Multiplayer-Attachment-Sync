@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Attachment_Sync</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="rage-sharp">
+      <HintPath>..\..\..\..\..\RAGEMP\dotnet\rage-sharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
